@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](https://mahmudulbd.com/)
+[![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](https://mahmudul.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" width="30px">
 
