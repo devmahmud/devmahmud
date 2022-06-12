@@ -1,14 +1,14 @@
 [![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](https://mahmudul.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" style="width: 30px">
 
 My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, living in Dhaka and currently working as a Full-time Software Engineer at Tero Labs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-### Things you should know
+## Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Django, Django REST
+- 🔭 <b>Currently working on:</b> React.js, Next.js, Django, Django REST
 - 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
-- 🤔 <b>Exploring:</b> React Native
+- 🤔 <b>Exploring:</b> Solidity
 - ⚗️ <b>Experimenting on:</b> Automated Resume Parsing
 - 💬 <b>Ask me about:</b> Python, Javascript
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:expelmahmud@gmail.com" target="_blank">expelmahmud@gmail.com</a>
@@ -19,12 +19,13 @@ My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, livi
 {
   "languages": ["Python", "Javascript", "Typescript"],
   "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework"],
-    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery"],
-    "others": ["HTML5", "CSS3"]
+    "backend": ["Django", "Django Rest Framework", "Express"],
+    "frontend": ["React.js", "Next.js", "Chakra UI", "Boostrap", "Material UI", "Jquery", "React Native"],
+    "web3": ["Web3.js", "Metamask"],
+    "others": ["Redux", "Redux Toolkit", "React Hook Form", "Formik" , "Yup", "Axios"]
   },
-  "database": ["Mysql", "PostgreSQL"],
-  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
+  "database": ["Mysql", "PostgreSQL", "Mongo DB"],
+  "misc": ["Docker", "Kubernetes", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
   "tools": ["Visual Studio Code", "Pycharm"]
 }
 ```
