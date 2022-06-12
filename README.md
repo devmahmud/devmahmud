@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](https://mahmudul.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" style="width: 30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" width="30" height="30">
 
 My name is Mahmudul Alam and I'm a software developer. I'm from Bangladesh, living in Dhaka and currently working as a Full-time Software Engineer at Tero Labs. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
