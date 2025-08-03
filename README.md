@@ -95,6 +95,10 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 - **[YouTube Captions](https://github.com/devmahmud/youtube-captions)** - YouTube caption extraction tool
 
 ### **Commercial Projects**
+- **Catarse** - Brazil's popular crowdfunding platform (Frontend Lead)
+  - Built frontend from scratch and led team to complete multiple features
+  - Led development of core crowdfunding functionality
+  - Project transferred to Brazilian team after successful feature completion
 - **Itrade5.com** - B2B Trading platform for importers/exporters
 - **Pancha Kids** - Sign language learning platform for children
 - **FieldPros** - CRM for landscaping companies (Frontend Lead)
