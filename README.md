@@ -15,7 +15,7 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 ## 🔧 Currently Working On
 
 - **Web2:** Next.js, React, Express, Django, TypeScript
-- **Web3:** Smart Contracts, MetaMask, RainbowKit, Privy, Ethers.js
+- **Web3:** Smart Contracts, MetaMask, RainbowKit, Privy, Ethers.js, EVM
 - **DevOps:** Docker, Kubernetes, Terraform, Pulumi, Ansible, Digital Ocean, AWS
 - **Infrastructure:** PostgreSQL, Redis, BullMQ, PM2, CI/CD
 
@@ -58,15 +58,27 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 {
   "languages": ["JavaScript", "TypeScript", "Python", "Golang"],
   "frameworks/libraries": {
-    "frontend": ["React.js", "Next.js", "ShadCN", "Tailwind CSS", "Material UI", "Chakra UI", "jQuery"],
-    "backend": ["Express.js", "Django", "Django REST Framework", "Prisma"],
+    "frontend": ["React.js", "Next.js", "Svelte", "Astro", "ShadCN", "Tailwind CSS", "Material UI", "Chakra UI", "jQuery"],
+    "backend": ["Express.js", "Django", "Django REST Framework", "Flask", "FastAPI", "NestJS", "Prisma"],
     "web3": ["Web3.js", "Ethers.js", "MetaMask", "RainbowKit", "Privy", "Smart Contracts"],
-    "mobile": ["React Native", "BLE", "NFC"]
+    "mobile": ["React Native", "Expo", "BLE", "NFC"]
   },
+  "state_management": ["Zustand", "Redux", "Redux Toolkit", "RTK Query", "Recoil"],
   "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  "devops": ["Docker", "Kubernetes", "Terraform", "Pulumi", "Ansible", "PM2", "CI/CD"],
-  "cloud": ["AWS (EC2, Fargate, S3, CloudFront)", "Digital Ocean", "Vercel", "Railway", "Cloudflare"],
-  "monitoring": ["Sentry", "Logtail", "PostHog", "Sentry"],
+  "devops": ["Docker", "Kubernetes", "Terraform", "Pulumi", "Ansible", "PM2", "CI/CD", "Helm"],
+  "cloud": ["AWS (EC2, Fargate, S3, CloudFront, Amplify)", "Digital Ocean", "Vercel", "Railway", "Cloudflare", "Firebase"],
+  "monitoring": ["Sentry", "Logtail", "PostHog", "Prometheus", "Grafana", "Loki", "ELK Stack", "Datadog", "Fullstory"],
+  "ci_cd": ["GitHub Actions", "GitLab CI/CD", "Circle CI", "Semantic Release"],
+  "testing": ["Jest", "Vitest", "Playwright", "TDD"],
+  "security": ["JWT", "Doppler", "Vault", "Persona KYC"],
+  "ecommerce": ["Stripe", "Shopify"],
+  "cms": ["Prismic", "Contentful"],
+  "form_validation": ["Zod", "React Hook Form"],
+  "authentication": ["Clerk", "Firebase FCM"],
+  "internationalization": ["I18n"],
+  "development_tools": ["ESLint", "Prettier", "Sonarqube", "Postman", "Insomnia", "dotenv", "PNPM Workspace", "Vite"],
+  "task_queues": ["Celery", "BullMQ"],
+  "project_management": ["Jira", "Asana", "Trello", "Confluence"],
   "tools": ["Visual Studio Code", "PyCharm", "Git"]
 }
 ```
@@ -91,11 +103,13 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 ## 🚀 Deployment & Infrastructure Experience
 
 - **Digital Ocean App Platform** with Docker containers
-- **AWS Services:** EC2, Fargate, S3, CloudFront, RDS, Route 53
+- **AWS Services:** EC2, Fargate, S3, CloudFront, RDS, Route 53, Amplify
 - **Managed Databases** and **Cache DB**
 - **Digital Ocean Object Storage** and **Droplets**
 - **Production deployments** handling thousands of requests per day
 - **Multi-environment** (dev, staging, prod) management
+- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Datadog
+- **CI/CD:** GitHub Actions, GitLab CI/CD, Circle CI with automated testing
 
 ## 💼 Freelance Success
 
@@ -103,13 +117,6 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 - **5-star rating** maintained consistently
 - **Near Top-Rated** status (completion rate 8→9)
 - Extensive experience in **vanilla JS**, **jQuery**, **React**, and **full-stack development**
-
-## 🌟 GitHub Achievements
-
-- **211 followers** and **29 following** on GitHub
-- **128 repositories** with **315 stars** across projects
-- **Achievement Badges:** Pull Shark x3, Quickdraw, YOLO, Starstruck x2, Arctic Code Vault Contributor
-- **Organizations:** Tero Labs, Leveor XYZ
 
 ## 📝 Technical Writing & Blog
 
@@ -151,29 +158,21 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/devmahmud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahmud&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/devmahmud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
-</a>
-
-<a href="https://github.com/devmahmud/Django-Poll-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/devmahmud/express-prisma-typescript-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=express-prisma-typescript-boilerplate&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI_GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)
 
 <!-- links to social media icons -->
 
