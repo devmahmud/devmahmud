@@ -2,29 +2,38 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" width="30" height="30">
 
-My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with expertise in **Web3, DevOps, and System Architecture**. I'm from Bangladesh, living in Dhaka and currently working as an **Independent Contributor (IC)** at **Creative Crowdfunding Protocol (CCP)** and **Backend Lead** at **Mavu** (minipay app for microworkers).
+**Mahmudul Alam** here! 👋 A **Full-Stack Software Engineer** who's absolutely passionate about building beautiful, performant frontends with **React & Next.js**, diving deep into **Web3**, and crafting solid **System Architecture**. 
+
+Hailing from Bangladesh 🇧🇩 and currently based in Dhaka, you'll find me wearing multiple hats: **Independent Contributor (IC)** at **Creative Crowdfunding Protocol (CCP)** and **Backend Lead** at **Mavu** (a minipay app for microworkers). When I'm not coding, I'm probably learning something new or contributing to the Web3 community!
 
 ## 🚀 Career Journey
 
-**2019-2021:** Vanilla JS, jQuery, DOM manipulation, CSS3, HTML5  
-**2021-2022:** React (Class → Functional Components), Frontend Development  
-**2022-2024:** Full-Stack (Django, Express), Web3 Integration  
-**2024-2025:** System Architecture, Smart Contracts, Blockchain  
-**2025-Present:** Infrastructure Scalability, DevOps, Cloud Native
+Started from the bottom (literally, with vanilla JS 😅) and here's how it went:
+
+**2019-2021:** Mastering the fundamentals - Vanilla JS, jQuery, DOM manipulation, CSS3, HTML5  
+**2021-2022:** Fell in love with React (Class → Functional Components), dove deep into Frontend Development  
+**2022-2024:** Went full-stack mode - Django, Express, and got hooked on Web3 Integration  
+**2024-2025:** Leveled up with System Architecture, Smart Contracts, and Blockchain  
+**2025-Present:** Pushing Frontend Architecture boundaries, exploring DevOps, and diving into Cloud Native
 
 ## 🔧 Currently Working On
 
-- **Web2:** Next.js, React, Express, Django, TypeScript
-- **Web3:** Smart Contracts, MetaMask, RainbowKit, Privy, Ethers.js, EVM
-- **DevOps:** Docker, Kubernetes, Terraform, Pulumi, Ansible, Digital Ocean, AWS
-- **Infrastructure:** PostgreSQL, Redis, BullMQ, PM2, CI/CD
+What's keeping me busy these days:
+
+- **Frontend Magic:** Next.js, React, TypeScript, Server Components, and exploring advanced React patterns
+- **Backend Stuff:** Express, Django, TypeScript - keeping the APIs happy
+- **Web3 Adventures:** Smart Contracts, MetaMask, RainbowKit, Privy, Ethers.js, EVM
+- **Infrastructure:** PostgreSQL, Redis, BullMQ, PM2, CI/CD pipelines
 
 ## 🌱 Currently Learning
 
-- **Golang** for backend development
-- **Container Internals** and **Kubernetes**
-- **Terraform** and **Pulumi** for Infrastructure as Code
-- **Cloud Native** architecture and scalability
+Always learning something new! Currently diving into:
+
+- **Golang** - Expanding backend horizons
+- **DevOps & Infrastructure** - Getting my hands dirty with Docker, Kubernetes, Terraform, Pulumi, Ansible
+- **Container Internals** - Understanding what makes containers tick
+- **Infrastructure as Code** - Terraform and Pulumi are my new best friends
+- **Cloud Native** - Exploring architecture patterns and scalability strategies
 
 ## 🏆 Certifications & Achievements
 
@@ -37,19 +46,21 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 
 ## 💼 Current Roles & Projects
 
+Here's what I'm building these days:
+
 ### **Creative Crowdfunding Protocol (CCP)**
 - **Role:** Independent Contributor (IC)
-- **Responsibilities:** Frontend architecture, smart contract integration
+- **What I do:** Crafting frontend architecture and integrating smart contracts
 - **Tech Stack:** Next.js App Router, TypeScript, Server Actions, ShadCN, Tailwind
 
 ### **Mavu (Minipay App)**
 - **Role:** Backend Lead
-- **Responsibilities:** Complete backend architecture
+- **What I do:** Architecting the entire backend system
 - **Tech Stack:** Express, TypeScript, Prisma, BullMQ, ioredis, node-cron, PostgreSQL, Swagger, Vitest, Sentry, Logtail, PM2 multi-cluster deployment
 
 ### **Rakunew (Japanese E-commerce)**
 - **Role:** Frontend Lead & Smart Contract Integration
-- **Responsibilities:** Managing entire frontend, crypto payment rails, KYC integration
+- **What I do:** Managing the entire frontend, building crypto payment rails, integrating KYC
 - **Tech Stack:** Next.js, Saleor, GraphQL, Monorepo, ShadCN, Tailwind, TypeScript, Privy, Smart Contracts
 
 ## 🛠️ Technology Stack
@@ -65,7 +76,7 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
   },
   "state_management": ["Zustand", "Redux", "Redux Toolkit", "RTK Query", "Recoil"],
   "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  "devops": ["Docker", "Kubernetes", "Terraform", "Pulumi", "Ansible", "PM2", "CI/CD", "Helm"],
+  "devops_learning": ["Docker", "Kubernetes", "Terraform", "Pulumi", "Ansible", "PM2", "CI/CD", "Helm"],
   "cloud": ["AWS (EC2, Fargate, S3, CloudFront, Amplify)", "Digital Ocean", "Vercel", "Railway", "Cloudflare", "Firebase"],
   "monitoring": ["Sentry", "Logtail", "PostHog", "Prometheus", "Grafana", "Loki", "ELK Stack", "Datadog", "Fullstory"],
   "ci_cd": ["GitHub Actions", "GitLab CI/CD", "Circle CI", "Semantic Release"],
@@ -85,49 +96,57 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 
 ## 🎯 Notable Projects
 
+Some projects I'm particularly proud of:
+
 ### **Open Source**
-- **[Django-Poll-App](https://github.com/devmahmud/Django-Poll-App)** - Full-featured polling app (315⭐, 177🍴)
-- **[Express-Prisma-TypeScript Boilerplate](https://github.com/devmahmud/express-prisma-typescript-boilerplate)** - Production-ready backend boilerplate
+- **[Django-Poll-App](https://github.com/devmahmud/Django-Poll-App)** - Full-featured polling app (315⭐, 177🍴) - because who doesn't love polls?
+- **[Express-Prisma-TypeScript Boilerplate](https://github.com/devmahmud/express-prisma-typescript-boilerplate)** - Production-ready backend boilerplate to save you hours
 - **[Complete SVG Animations](https://github.com/devmahmud/complete-svg-animations)** - Comprehensive SVG animation library
-- **[React Frontend Dev Portfolio](https://github.com/devmahmud/react-frontend-dev-portfolio)** - Developer portfolio template
-- **[Next.js Transition Bar](https://github.com/devmahmud/next-transition-bar)** - Navigation transition component
+- **[React Frontend Dev Portfolio](https://github.com/devmahmud/react-frontend-dev-portfolio)** - Developer portfolio template (feel free to fork!)
+- **[Next.js Transition Bar](https://github.com/devmahmud/next-transition-bar)** - Smooth navigation transitions
 - **[Next.js DnD Form Builder](https://github.com/devmahmud/next-dnd-formbuilder)** - Drag & drop form builder
-- **[YouTube Captions](https://github.com/devmahmud/youtube-captions)** - YouTube caption extraction tool
+- **[YouTube Captions](https://github.com/devmahmud/youtube-captions)** - Extract YouTube captions like a pro
 
 ### **Commercial Projects**
 - **Catarse** - Brazil's popular crowdfunding platform (Frontend Lead)
-  - Built frontend from scratch and led team to complete multiple features
-  - Led development of core crowdfunding functionality
-  - Project transferred to Brazilian team after successful feature completion
-- **Itrade5.com** - B2B Trading platform for importers/exporters
+  - Built the frontend from scratch and led a team to ship multiple features
+  - Developed core crowdfunding functionality
+  - Successfully handed off to the Brazilian team after feature completion
+- **Itrade5.com** - B2B Trading platform connecting importers/exporters
 - **Pancha Kids** - Sign language learning platform for children
 - **FieldPros** - CRM for landscaping companies (Frontend Lead)
 - **App Tempo** - E-scooter riding and renting app (React Native with BLE/NFC)
 
 ## 🚀 Deployment & Infrastructure Experience
 
+Been deploying and managing infrastructure for production apps:
+
 - **Digital Ocean App Platform** with Docker containers
 - **AWS Services:** EC2, Fargate, S3, CloudFront, RDS, Route 53, Amplify
-- **Managed Databases** and **Cache DB**
+- **Managed Databases** and **Cache DB** setups
 - **Digital Ocean Object Storage** and **Droplets**
-- **Production deployments** handling thousands of requests per day
-- **Multi-environment** (dev, staging, prod) management
-- **Monitoring & Observability:** Prometheus, Grafana, ELK Stack, Datadog
+- **Production deployments** handling thousands of requests daily
+- **Multi-environment** workflows (dev, staging, prod)
 - **CI/CD:** GitHub Actions, GitLab CI/CD, Circle CI with automated testing
+- **Monitoring & Observability:** Sentry, Logtail, PostHog (and actively learning Prometheus, Grafana, ELK Stack)
 
 ## 💼 Freelance Success
 
+Started freelancing and never looked back:
+
 - **147+ projects** completed on Fiverr
-- **5-star rating** maintained consistently
+- **5-star rating** maintained consistently (because quality matters!)
 - **Near Top-Rated** status (completion rate 8→9)
 - Extensive experience in **vanilla JS**, **jQuery**, **React**, and **full-stack development**
 
 ## 📝 Technical Writing & Blog
 
+Love sharing what I learn! Check out my latest posts:
+
 - **Latest Posts:**
   - [Custom Authentication in Next.js Using External Backend](https://mahmudul.dev/posts/custom-authentication-nextjs-external-backend/) - Learn how to implement custom authentication with access tokens and refresh tokens
   - [Deleting Local Stale Branches in Git](https://mahmudul.dev/posts/deleting-local-stale-branches-git/) - Git repository cleanup techniques
-- **Planned Posts:**
+- **Coming Soon:**
   - Web3 Wallet MetaMask Authentication in Express.js
   - Automatic Version Releasing with Semantic Release
   - Setting Up Commitlint in Next.js Application
@@ -135,9 +154,11 @@ My name is **Mahmudul Alam** and I'm a **Full-Stack Software Engineer** with exp
 
 ## 🎤 Speaking & Community
 
+Love sharing knowledge and contributing to the community:
+
 - **Linea Voyage Waypoint** - Spoke about Frontend and Web3 in Dhaka
-- Active contributor to **Web3 community** and **blockchain development**
-- **5+ years** of experience in consumer-facing software development
+- Active contributor to the **Web3 community** and **blockchain development**
+- **5+ years** of building consumer-facing software
 
 ## 📫 Get In Touch
 
